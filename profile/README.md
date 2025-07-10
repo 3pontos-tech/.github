@@ -50,9 +50,10 @@ We're a small and focused engineering team at **3Pontos Tech**, building reliabl
 | 🧑‍💻 Member | Role | GitHub |
 |------------|------|--------|
 | 👨‍🏫 **Daniel Reis** | Team Lead | [@danielhe4rt](https://github.com/danielhe4rt) |
-| 🧩 **Rafael “RafaScripts”** | Mid-level Developer I | [@rafascripts](https://github.com/rafascripts) |
-| 💡 **Babi Drummond** | Junior Developer II | [@babidrummond](https://github.com/babidrummond) |
+| 🧩 **Renan Vidal** | Product Owner | [@RenanVidal](http://github.com/RenanVidal) |
 | 🌱 **Pils Araujo** | Junior Developer I | [@pilsaraujo](https://github.com/pilsaraujo) |
+| 💡 **Clinton Rocha** | Intern Developer I | [@Clintonrocha98](https://github.com/Clintonrocha98) |
+
 
 ## 💼 Careers at 3Pontos Tech
 
