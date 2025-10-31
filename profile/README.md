@@ -51,8 +51,11 @@ We're a small and focused engineering team at **3Pontos Tech**, building reliabl
 |------------|------|--------|
 | 👨‍🏫 **Daniel Reis** | Team Lead | [@danielhe4rt](https://github.com/danielhe4rt) |
 | 🧩 **Renan Vidal** | Product Owner | [@RenanVidal](http://github.com/RenanVidal) |
-| 🌱 **Pils Araujo** | Junior Developer I | [@pilsaraujo](https://github.com/pilsaraujo) |
-| 💡 **Clinton Rocha** | Intern Developer I | [@Clintonrocha98](https://github.com/Clintonrocha98) |
+| 🌱 **Paula Araujo** | Junior Developer I | [@pilsaraujo](https://github.com/pilsaraujo) |
+| 🌱 **Clinton Rocha** | Junior Developer I | [@Clintonrocha98](https://github.com/Clintonrocha98) |
+| 🌱 **Diogo Kaster** | Junior Developer I | [@DiogoKaster](https://github.com/DiogoKaster) |
+| 💡 **Richard Greghi** | Intern Developer I | [@RichardGL11](https://github.com/RichardGL11) |
+| ✏️ **Gabriel Vieira** | UI/UX | [@Nextor](https://www.behance.net/nexturhe4rt) |
 
 
 ## 💼 Careers at 3Pontos Tech
