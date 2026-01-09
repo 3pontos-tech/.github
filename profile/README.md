@@ -54,7 +54,7 @@ We're a small and focused engineering team at **3Pontos Tech**, building reliabl
 | 🌱 **Paula Araujo** | Junior Developer I | [@pilsaraujo](https://github.com/pilsaraujo) |
 | 🌱 **Clinton Rocha** | Junior Developer I | [@Clintonrocha98](https://github.com/Clintonrocha98) |
 | 🌱 **Diogo Kaster** | Junior Developer I | [@DiogoKaster](https://github.com/DiogoKaster) |
-| 💡 **Richard Greghi** | Intern Developer I | [@RichardGL11](https://github.com/RichardGL11) |
+| 💡 **Richard Greghi** | Junior Developer I  | [@RichardGL11](https://github.com/RichardGL11) |
 | ✏️ **Gabriel Vieira** | UI/UX | [@Nextur](https://www.behance.net/nexturhe4rt) |
 
 
