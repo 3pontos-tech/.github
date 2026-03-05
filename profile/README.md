@@ -51,6 +51,7 @@ We're a small and focused engineering team at **3Pontos Tech**, building reliabl
 |------------|------|--------|
 | 👨‍🏫 **Daniel Reis** | Team Lead | [@danielhe4rt](https://github.com/danielhe4rt) |
 | 🧩 **Renan Vidal** | Product Owner | [@RenanVidal](http://github.com/RenanVidal) |
+| 🌳 **Thales Machado** | Middle-Level Developer I | [@thalesmengue](https://github.com/thalesmengue) |
 | 🌱 **Paula Araujo** | Junior Developer I | [@pilsaraujo](https://github.com/pilsaraujo) |
 | 🌱 **Clinton Rocha** | Junior Developer I | [@Clintonrocha98](https://github.com/Clintonrocha98) |
 | 🌱 **Diogo Kaster** | Junior Developer I | [@DiogoKaster](https://github.com/DiogoKaster) |
